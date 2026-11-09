@@ -1,0 +1,7 @@
+export { TrustStrip } from './TrustStrip'
+export { Story } from './Story'
+export { WhyKakum } from './WhyKakum'
+export { Delivery } from './Delivery'
+export { BulkEnquiry } from './BulkEnquiry'
+export { Faq } from './Faq'
+export { FinalCta } from './FinalCta'
